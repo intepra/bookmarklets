@@ -1,0 +1,6 @@
+JavaScript bookmarklets for cutting off the dissonance objects: 'object', 'embed', 'iframe,...
+Add the TagName of the Elements that you want to disable to the list ['object','embed','iframe']
+
+http://en.wikipedia.org/wiki/Bookmarklet
+Installation
+"Installation" of a bookmarklet is performed by creating a new bookmark, and pasting the code into the URL destination field. Alternatively, if the bookmarklet is presented as a link, under some browsers it can be dragged and dropped onto the bookmark bar. The bookmarklet can then be run by loading the bookmark normally.
